@@ -1,0 +1,52 @@
+{
+  "produits": [
+    {
+      "id": "30",
+      "code": "y10",
+      "designation": "salon en cuir",
+      "prix": 3000
+    },
+    {
+      "id": "40",
+      "code": "z45",
+      "designation": "Ordinateur",
+      "prix": "4000"
+    },
+    {
+      "id": "10",
+      "code": "x12",
+      "designation": "Panier plastique",
+      "prix": "500"
+    },
+    {
+      "id": "50",
+      "code": "k13",
+      "designation": "gilet",
+      "prix": "600"
+    },
+    {
+      "id": "70",
+      "code": "k13",
+      "designation": "armoire",
+      "prix": "800"
+    },
+    {
+      "id": "180",
+      "code": "k11",
+      "designation": "Panier plastique",
+      "prix": "300"
+    },
+    {
+      "id": "90",
+      "code": "k11",
+      "designation": "chaise ",
+      "prix": "600"
+    },
+    {
+      "id": "100",
+      "code": "k11",
+      "designation": "chaise ",
+      "prix": "800"
+    }
+  ]
+}
